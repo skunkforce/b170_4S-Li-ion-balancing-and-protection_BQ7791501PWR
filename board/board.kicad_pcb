@@ -13017,6 +13017,18 @@
 		(layer "Edge.Cuts")
 		(uuid "e3a5326f-2886-44de-9a5d-304a947608cc")
 	)
+	(gr_text "osf.b170.v1.0"
+		(at 148.55 118.65 0)
+		(layer "F.SilkS")
+		(uuid "a4d9570e-e69f-4598-9e03-4bf26b343491")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(segment
 		(start 173.725 105.575)
 		(end 173.75 105.6)
